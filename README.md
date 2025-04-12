@@ -36,3 +36,5 @@ Matplotlib, Seaborn
 
 Google Colab
 
+DATASET LINK:https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+
