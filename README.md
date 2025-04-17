@@ -19,7 +19,7 @@ Applied and compared multiple ML models
 
 Evaluated using accuracy
 
-Confusion matrix and ROC curve visualizations
+Confusion matrix 
 
 🛠️ Technologies Used
 Python
