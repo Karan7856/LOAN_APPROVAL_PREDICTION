@@ -15,9 +15,6 @@ Cleaned and preprocessed dataset
 
 Handled missing values and categorical encoding
 
-Performed class balancing using SMOTE/oversampling
-
-
 Applied and compared multiple ML models
 
 Evaluated using accuracy
