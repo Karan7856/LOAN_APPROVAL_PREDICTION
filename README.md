@@ -6,9 +6,9 @@ We used a cleaned and balanced dataset and applied multiple classification model
 
 📊 Project Overview
 🔍 Goal: Predict loan approval status (approved/rejected) based on applicant details
-📈 Models Used: Logistic Regression, Decision Tree, Random Forest, KNN, XGBoost
+📈 Models Used: Logistic Regression, Decision Tree, Random Forest, KNN
 📊 EDA: Univariate, bivariate, and multivariate analysis using bar plots, heatmaps, boxplots, and pairplots
-✅ Best Accuracy: RANDOM FOREST with nearly 98% accuracy
+✅ Best Accuracy: DECISION TREE with nearly 94% accuracy
 
 🧠 Features
 Cleaned and preprocessed dataset
@@ -17,11 +17,10 @@ Handled missing values and categorical encoding
 
 Performed class balancing using SMOTE/oversampling
 
-In-depth Exploratory Data Analysis (EDA)
 
 Applied and compared multiple ML models
 
-Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC
+Evaluated using accuracy
 
 Confusion matrix and ROC curve visualizations
 
