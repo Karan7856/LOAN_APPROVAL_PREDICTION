@@ -26,7 +26,7 @@ Python
 
 Pandas, NumPy
 
-Scikit-learn, XGBoost, Imbalanced-learn
+Scikit-learn, Imbalanced-learn
 
 Matplotlib, Seaborn
 
